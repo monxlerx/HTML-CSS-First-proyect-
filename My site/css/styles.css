@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    line-height: 2;
+
+}
+
+hr {
+    border: 10px dotted #EAF6F6;
+    border-style: none none dotted;
+    color: #fff;
+    background-color: #fff;
+    margin: 100px auto;
+    width: 90px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+
+.skill-row_1 {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.skill-row_2 {
+    margin: 100px auto 100px auto;
+    text-align: right;
+    width: 50%;
+}
+
+.skill-description_1 {
+    float: right;
+    width: 50%;
+}
+
+.skill-description_2 {
+    float: left;
+    text-align: left;
+    width: 50%;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.button-contact {
+    background-color: #66BFBF;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    top: 50px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    position: relative;
+    top: 100px;
+    height: 200px;
+}
+
+.bottom-container a {
+    color: #11999E;
+    font-size: 1.2rem;
+    margin-right: 50px;
+    position: relative;
+    text-decoration: none;
+    top: 70px;
+}
+
+.bottom-container a:hover {
+    color: #EAF6F6;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 1rem;
+    position: relative;
+    top: 100px;
+}
+
+.top-cloud {
+    position: relative;
+    top: 0px;
+    left: 200px;
+}
+
+.bottom-cloud {
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+}
+
+.internet {
+    float: left;
+}
+
+.code {
+    float: right;
+}
